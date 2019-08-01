@@ -1,0 +1,22 @@
+{"storesList": [
+      { 
+      "storeName": "Amazon",
+      "storeUrl": "amazon-logo.svg"
+    },
+    {      
+      "storeName": "Reverb",
+      "storeUrl": "rev.svg"
+    },
+    {      
+      "storeName": "Shopify",
+      "storeUrl": "shopify-logo.svg"
+    },
+    {      
+      "storeName": "ShippingEasy",
+      "storeUrl": "shippingeasy-logo.svg"
+    },
+    {       
+      "storeName": "ShipStation",
+      "storeUrl": "shipstation-logo.svg"
+    }
+]}
